@@ -33,3 +33,5 @@ setprojectdir .
 --deactivate
 
 workon virtualDirName
+
+ run -- Main.py from the project path
